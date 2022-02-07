@@ -1,4 +1,4 @@
-### Accesing Array 
+## Accesing Array 
 
 It is super easy job , we have to do nothing but just pass the index of array to the given array.
 
