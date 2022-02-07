@@ -1,4 +1,4 @@
-### Insertion in Array
+## Insertion in Array
 
 we use insert() function which takes 2 arguments.
 
