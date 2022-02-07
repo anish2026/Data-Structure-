@@ -1,4 +1,4 @@
-### Arrays in Python 
+## Arrays in Python 
 
 ```python
 
